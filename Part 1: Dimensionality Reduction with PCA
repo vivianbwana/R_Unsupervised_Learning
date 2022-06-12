@@ -1,2 +1,26 @@
-This section of the project entails reducing your dataset to a low dimensional dataset using the t-SNE algorithm or PCA. 
-You will be required to perform your analysis and provide insights gained from your analysis.
+# Dimesionality Reduction with PCA
+
+The aim of this project is to reduce the dimension of the dataset from a high dimension dataset to a low dimension dataset.
+
+## Introduction
+
+You are a Data analyst at Carrefour Kenya and are currently undertaking a project that will inform the marketing department on the most relevant 
+marketing strategies that will result in the highest no. of sales (total price including tax). 
+Your project has been divided into four parts where you'll explore a recent marketing dataset by performing various unsupervised learning techniques 
+and later providing recommendations based on your insights.
+For this first part, we were able to reduce the dimension of the dataset.
+
+## Approach
+
+We will perform dimensionality reduction using Principal Componenet Analysis using PCA.
+We will apply the following approach: Data cleaning procedures such as removal of missing values and duplicates,
+briefly perform Exploratory Data Analysis, perform dimensionality reduction using PCA.
+
+Dataset
+The dataset used for this project can be found on this link: http://bit.ly/CarreFourDataset
+
+Technologies applied
+R programming language using R markdown.
+
+Methodology
+The medthodology used to perform the Dimensionality Reduction for this analysis is Principal Component Analysis.
